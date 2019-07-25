@@ -1,0 +1,3 @@
+#!/usr/local/bin/bash
+python3 $HOME/Projects/search_phrase/search_phrase.py "$@"
+exit $?
